@@ -1,0 +1,8 @@
+# Ignore datasets
+flower_photos/
+
+# Ignore weights
+flower.h5
+
+# Ignore others
+.ipynb_checkpoints/
