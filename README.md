@@ -13,9 +13,7 @@ pip install tensorflow --upgrade
 ## 2. Download flower dataset
 Download flower dataset from Google and unzip it.
 ```
-wget https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz
-tar zxvf flower_photos.tgz
-rm flower_photos.tgz
+bash Download.sh
 ```
 ## 3. Training flower classification model
 Open train.ipynb and follow each cell
