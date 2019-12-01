@@ -3,6 +3,7 @@ flower_photos/
 
 # Ignore weights
 flower.h5
+flower_efficientnet.h5
 
 # Ignore others
 .ipynb_checkpoints/

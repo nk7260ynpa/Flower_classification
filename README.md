@@ -17,3 +17,10 @@ bash Download.sh
 ```
 ## 3. Training flower classification model
 Open train.ipynb and follow each cell
+
+## (Option) Training flower classification model with efficiency net
+```
+pip install efficientnet
+```
+Open train_efficientnet.ipynb and follow each cell
+
